@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="textview">TextView</string>
+    <string name="repository">Repository</string>
+    <string name="follower">Follower</string>
+    <string name="welcome">Welcome</string>
+    <string name="share">Share</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search">Search</string>
+    <string name="total">Total</string>
+    <string name="home">home</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="waiting_for_search">Waiting For Search</string>
+    <string name="loading">Loading</string>
+    <string name="error">Error</string>
+    <string name="explore">explore</string>
+    <string name="about">About</string>
+    <string name="find_your_developer_to_make_the_world_more_intelegent">Find Your Developer to make the world more intelligent!</string>
+    <string name="_23_4_milion_more_developer_available_around_the_world">23.4 million more developer available around the world</string>
+    <string name="name">%1$s ( %2$s )</string>
+    <string name="favorite">favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="setting">setting</string>
+    <string name="off">Off</string>
+    <string name="on">on</string>
+    <string name="reminder">Reminder</string>
+    <string name="change_language">Change Language</string>
+    <string name="reminder_enabled">Reminder Enabled</string>
+    <string name="reminder_disable">Reminder Disable</string>
+    <string name="msg_reminder">let\'s check GithubUser Apps now</string>
+    <string name="empty">empty</string>
+    <string name="user_not_found">user not found</string>
+    <string name="app_widget_description">app_widget_description</string>
+    <string name="lets_check">Check Profile Github </string>
+</resources>

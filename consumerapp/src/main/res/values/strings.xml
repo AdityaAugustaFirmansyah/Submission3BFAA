@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+    <string name="textview">textview</string>
+    <string name="user_not_found">user not found</string>
+</resources>

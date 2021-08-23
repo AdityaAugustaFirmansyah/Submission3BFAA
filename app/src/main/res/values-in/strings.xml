@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="textview">Tampilan Teks</string>
+    <string name="repository">Gudang</string>
+    <string name="follower">Pengikut</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="share">Berbagi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="search">Cari</string>
+    <string name="total">Jumlah</string>
+    <string name="home">halaman</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="waiting_for_search">Menunggu Untuk Dicari</string>
+    <string name="loading">memuat</string>
+    <string name="error">kesalahan</string>
+    <string name="explore">jelajahi</string>
+    <string name="about">Tentang</string>
+    <string name="find_your_developer_to_make_the_world_more_intelegent">Temukan Pengembang Anda untuk membuat dunia lebih cerdas!</string>
+    <string name="_23_4_milion_more_developer_available_around_the_world">23,4 juta lebih banyak pengembang tersedia di seluruh dunia</string>
+    <string name="name" >%1$s ( %2$s )</string>
+    <string name="setting">pengaturan</string>
+    <string name="favorite">favorite</string>
+    <string name="off">mati</string>
+    <string name="on">nyala</string>
+    <string name="reminder">Pengingat</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="reminder_enabled">Reminder Di Aktifkan</string>
+    <string name="reminder_disable">Reminder Di Nonaktifkan</string>
+    <string name="msg_reminder">Mari Check Aplikasi Github User Sekarang</string>
+    <string name="empty">kosong</string>
+    <string name="user_not_found">user tidak di temukan</string>
+    <string name="app_widget_description">app_widget_description</string>
+    <string name="lets_check">Mari Lihat Profile Github </string>
+</resources>
